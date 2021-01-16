@@ -1,0 +1,1 @@
+export const secret = 'nodeauth-secret-bb6uoi23456poi323'
